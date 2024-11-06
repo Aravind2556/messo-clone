@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header_logo{
+    color: #570D48;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.header{
+   top: 0;
+   
+}
+
+
+
+
+
+.Happy_sales{
+    width: 1012px;
+}
+.Popup{
+    width: 93%;
+    position: fixed;
+    top: 128px
+}
+
+/* Common popup styles */
+.popup {
+    transform: scale(100%);
+    transition: transform 50ms ease-in-out;
+  }
+  
+  .popup.show {
+    transform: scale(101%);
+  }
+
+
+
+h3{
+    color: #d108a9;
+    font-weight: 400;
+    font-size: larger;
+}
+
+
+
+
+  
+  
+  
